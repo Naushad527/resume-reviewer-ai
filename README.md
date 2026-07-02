@@ -70,7 +70,7 @@ Reply on WhatsApp
 
 ![ATS Feedback](screenshots/image7.png)
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Connect to the WhatsApp Sandbox
 
