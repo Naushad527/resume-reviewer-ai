@@ -75,7 +75,7 @@ Reply on WhatsApp
 1. Clone the repository
 
 ```bash
-git clone https://github.com/Naushad527/REPO_NAME.git
+git clone https://github.com/Naushad527/resume-reviewer-ai.git
 ```
 
 2. Import the workflow into n8n.
