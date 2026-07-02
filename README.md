@@ -64,11 +64,11 @@ Reply on WhatsApp
 
 ### AI Resume Review
 
-![Resume Review](screenshots/image1.png)
+![Resume Review](screenshots/image6.png)
 
 ### ATS Feedback
 
-![ATS Feedback](screenshots/image5.png)
+![ATS Feedback](screenshots/image7.png)
 
 ##  Getting Started
 
