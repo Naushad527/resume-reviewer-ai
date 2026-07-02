@@ -1,41 +1,103 @@
-# 🤖 AI Resume Reviewer
+# 🤖 AI WhatsApp Resume Reviewer
 
-An AI-powered Resume Reviewer built using **n8n**, **OpenAI API**, and **WhatsApp Cloud API**.
+An AI-powered WhatsApp chatbot that automatically reviews resumes and provides personalized feedback using **n8n**, **Groq AI**, and the **WhatsApp Cloud API**.
 
-## Features
+---
 
--  Upload resume directly via WhatsApp
--  AI-powered resume analysis
--  ATS-focused feedback
--  Strengths & weaknesses
--  Resume improvement suggestions
--  Fully automated workflow
+## ✨ Features
 
-## Tech Stack
+- 📄 Upload resumes directly through WhatsApp
+- 🤖 AI-powered resume analysis
+- 📊 ATS-focused resume feedback
+- 💪 Highlights strengths and weaknesses
+- 🎯 Suggests actionable improvements
+- ⚡ End-to-end automation using n8n workflows
+- 💬 Instant replies on WhatsApp
+
+---
+
+## 🛠️ Tech Stack
 
 - n8n
-- OpenAI API
+- Groq AI
 - WhatsApp Cloud API
-- Webhooks
 - REST APIs
+- Webhooks
 
-## Workflow
+---
 
-User Uploads Resume
-↓
+## 📂 Project Workflow
+
+```text
+User Uploads Resume (PDF)
+        │
+        ▼
 WhatsApp Cloud API
-↓
+        │
+        ▼
 n8n Workflow
-↓
+        │
+        ▼
 Extract Resume Text
-↓
-OpenAI Analysis
-↓
-Send Review Back on WhatsApp
+        │
+        ▼
+Groq AI Analysis
+        │
+        ▼
+Generate Personalized Feedback
+        │
+        ▼
+Reply on WhatsApp
+```
 
-## Setup
+---
 
-1. Import the workflow into n8n.
-2. Configure OpenAI API credentials.
-3. Configure WhatsApp Cloud API.
-4. Activate the workflow.
+## 📸 Screenshots
+
+### WhatsApp Chat
+
+_Add screenshot here_
+
+### n8n Workflow
+
+_Add screenshot here_
+
+### AI Resume Feedback
+
+_Add screenshot here_
+
+---
+
+##  Getting Started
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/Naushad527/REPO_NAME.git
+```
+
+2. Import the workflow into n8n.
+
+3. Configure your Groq API credentials.
+
+4. Configure your WhatsApp Cloud API credentials.
+
+5. Activate the workflow.
+
+---
+
+## 📌 Future Improvements
+
+- Job Description (JD) matching
+- Resume scoring
+- Multi-language support
+- Cover letter generation
+- Interview preparation suggestions
+
+---
+
+## 👨‍💻 Author
+
+**Naushad Sheikh**
+
+If you found this project helpful, consider giving it a ⭐.
