@@ -54,11 +54,11 @@ Reply on WhatsApp
 
 ## 📸 Screenshots
 
-### WhatsApp Chat
+### WhatsApp 
 
-_Add screenshot here_
 
-### n8n Workflow
+
+### Workflow
 
 _Add screenshot here_
 
