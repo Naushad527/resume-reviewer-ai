@@ -70,24 +70,26 @@ Reply on WhatsApp
 
 ![ATS Feedback](screenshots/image7.png)
 
-##  Getting Started
+## 🚀 Getting Started
 
-1. Clone the repository
+### Connect to the WhatsApp Sandbox
 
-```bash
-git clone https://github.com/Naushad527/resume-reviewer-ai.git
+Before using the chatbot, connect your WhatsApp account to the Twilio Sandbox:
+
+1. Save the Twilio Sandbox number:
+   **+1 415 523 8886**
+2. Open WhatsApp.
+3. Send the following message:
+
+```text
+join managed-run
 ```
 
-2. Import the workflow into n8n.
+4. Wait for the confirmation message from Twilio.
+5. Once connected, send your resume as a **PDF** to the same WhatsApp number.
+6. The chatbot will analyze your resume and reply with AI-generated feedback within a few seconds.
 
-3. Configure your Groq API credentials.
-
-4. Configure your WhatsApp Cloud API credentials.
-
-5. Activate the workflow.
-
----
-
+> **Note:** The sandbox join code may change. Check your Twilio Console for the latest code before testing.
 ## 📌 Future Improvements
 
 - Job Description (JD) matching
