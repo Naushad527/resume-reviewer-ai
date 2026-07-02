@@ -4,15 +4,15 @@ An AI-powered WhatsApp chatbot that automatically reviews resumes and provides p
 
 ---
 
-## ✨ Features
+##  Features
 
-- 📄 Upload resumes directly through WhatsApp
-- 🤖 AI-powered resume analysis
-- 📊 ATS-focused resume feedback
-- 💪 Highlights strengths and weaknesses
-- 🎯 Suggests actionable improvements
-- ⚡ End-to-end automation using n8n workflows
-- 💬 Instant replies on WhatsApp
+-  Upload resumes directly through WhatsApp
+-  AI-powered resume analysis
+-  ATS-focused resume feedback
+-  Highlights strengths and weaknesses
+-  Suggests actionable improvements
+-  End-to-end automation using n8n workflows
+-  Instant replies on WhatsApp
 
 ---
 
@@ -26,7 +26,7 @@ An AI-powered WhatsApp chatbot that automatically reviews resumes and provides p
 
 ---
 
-## 📂 Project Workflow
+##  Project Workflow
 
 ```text
 User Uploads Resume (PDF)
@@ -90,7 +90,7 @@ join managed-run
 6. The chatbot will analyze your resume and reply with AI-generated feedback within a few seconds.
 
 > **Note:** The sandbox join code may change. Check your Twilio Console for the latest code before testing.
-## 📌 Future Improvements
+##  Future Improvements
 
 - Job Description (JD) matching
 - Resume scoring
@@ -100,7 +100,7 @@ join managed-run
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Naushad Sheikh**
 
