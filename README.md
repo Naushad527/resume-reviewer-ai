@@ -54,19 +54,21 @@ Reply on WhatsApp
 
 ## 📸 Screenshots
 
-### WhatsApp 
+### WhatsApp Chat
 
+![WhatsApp Chat](screenshots/whatsapp.png)
 
+### n8n Workflow
 
-### Workflow
+![Workflow](screenshots/workflow.png)
 
-_Add screenshot here_
+### AI Resume Review
 
-### AI Resume Feedback
+![Resume Review](screenshots/image1.png)
 
-_Add screenshot here_
+### ATS Feedback
 
----
+![ATS Feedback](screenshots/image5.png)
 
 ##  Getting Started
 
